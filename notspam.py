@@ -51,8 +51,6 @@ def launchmenu(sender,reciever,subject,body,nukes):
 def inputs():
     print('Enter the sender email')
     sender = input()
-    #print('Enter sender email password')
-    #passw= input()
     print('Enter the reciever email')
     reciever = input()
     print('Enter the subject of the email')
